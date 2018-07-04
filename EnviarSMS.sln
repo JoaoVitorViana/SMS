@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviarSMS", "EnviarSMS.csproj", "{89341BB1-9662-496B-964A-048276A76DD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviarSMS", "EnviarSMS\EnviarSMS.csproj", "{89341BB1-9662-496B-964A-048276A76DD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS", "..\SMS\SMS.csproj", "{1FC127CC-0D5F-4704-B239-7858FC7A0FC9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS", "SMS\SMS.csproj", "{1FC127CC-0D5F-4704-B239-7858FC7A0FC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
